@@ -1,8 +1,8 @@
-# app_calculadora
+# App_calculadora
 
 Calculadora one page
 
-## sobre o projeto
+## Sobre o projeto
 Este projeto foi criado para colocar em prática os conhecimentos adquirido no curso de 
 Desenvolvimento web da udemy de um projeto web front-end. O objetivo do projeto foi criar uma 
 uma calculadora utilizando tecnologias simples como o HTML, CSS, javascript e bootstrap, além de englobar 

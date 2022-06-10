@@ -4,11 +4,11 @@ Calculadora one page
 
 ## Sobre o projeto
 Este projeto foi criado para colocar em prática os conhecimentos adquirido no curso de 
-Desenvolvimento web da udemy de um projeto web front-end. O objetivo do projeto foi criar uma 
-uma calculadora utilizando tecnologias simples como o HTML, CSS, javascript e bootstrap, além de englobar 
-os conceitos de como estruturar e posicionar as tags e scripts dentro da página HTML.
+Desenvolvimento web da udemy de um projeto web front-end. 
 
 ## Tecnologias usadas
+Como desafio foi proposto desenvolver uma calculadora utilizando:
+
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

@@ -14,6 +14,8 @@ Como desafio foi proposto desenvolver uma calculadora utilizando:
 [![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp)
 [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.2/getting-started/introduction/https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
+A versão usada do Bootstrap é a v5.1.3
+
 ## Layout do projeto
 ![calculadora](https://user-images.githubusercontent.com/93053356/171954010-c359c035-2acf-464c-97c8-ed740d7e976d.png)
 
